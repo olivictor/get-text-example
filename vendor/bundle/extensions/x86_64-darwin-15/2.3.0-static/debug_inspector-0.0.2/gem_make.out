@@ -1,0 +1,16 @@
+current directory: /Users/victor/google_drive/get_text_test/vendor/bundle/gems/debug_inspector-0.0.2/ext/debug_inspector
+/Users/victor/.rbenv/versions/2.3.0/bin/ruby -r ./siteconf20160203-13509-ikfadb.rb extconf.rb
+creating Makefile
+
+current directory: /Users/victor/google_drive/get_text_test/vendor/bundle/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR=" clean
+make: error: couldn't open cache file '/var/folders/yv/m6gjflbd4j70s2t6xfl_0xh80000gn/T/xcrun_db' (errno=File exists)
+
+current directory: /Users/victor/google_drive/get_text_test/vendor/bundle/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.bundle
+
+current directory: /Users/victor/google_drive/get_text_test/vendor/bundle/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug_inspector.bundle ./.gem.20160203-13509-el6ts9
